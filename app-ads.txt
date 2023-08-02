@@ -10,6 +10,7 @@ mgid.com, 478578, DIRECT, d4c29acad76ce94f
 outbrain.com, 00cf03dbdd20d696df07a92b3b8fd2f7e2, DIRECT
 revcontent.com, 122063, DIRECT
 pubmatic.com, 160044, RESELLER, 5d62403b186f2ace
+google.com, pub-8999109968735248, DIRECT, f08c47fec0942fa0
 google.com, pub-8002125689398145, DIRECT, f08c47fec0942fa0
 google.com, pub-9573328490847414, DIRECT, f08c47fec0942fa0
 google.com, pub-8999109968735248, DIRECT, f08c47fec0942fa0
