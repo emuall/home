@@ -14,3 +14,22 @@ google.com, pub-8999109968735248, DIRECT, f08c47fec0942fa0
 google.com, pub-8002125689398145, DIRECT, f08c47fec0942fa0
 google.com, pub-9573328490847414, DIRECT, f08c47fec0942fa0
 google.com, pub-8999109968735248, DIRECT, f08c47fec0942fa0
+
+
+
+google.com, pub-2726428685015992, RESELLER, f08c47fec0942fa0
+google.com, pub-7913044002918072, DIRECT, f08c47fec0942fa0
+outbrain.com, 00cf03dbdd20d696df07a92b3b8fd2f7e2, DIRECT
+outbrain.com, 00f0006ba83d4ebf18f3ac3cdad702d62c, DIRECT
+pubmatic.com, 160835, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24588, RESELLER, 0bfd66d529a55807
+revcontent.com, 181654, DIRECT
+smartadserver.com, 4531, RESELLER, 060d053dcf45cbf3
+yandex.com, 105058631, DIRECT
+improvedigital.com, 2031, RESELLER
+betweendigital.com, 43554, RESELLER
+uis.mobfox.com, 165, RESELLER
+Contextweb.com, 562899,RESELLER,89ff185a4c4e857c
+hyperad.tech, 150, RESELLER
+hyperad.tech, 215, RESELLER
+google.com, pub-5533854580432370, RESELLER, f08c47fec0942fa0
